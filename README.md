@@ -21,7 +21,7 @@ In this paper, we present our solution to the MedVidQA 2023 Task 1: Video Corpus
  
 ***Index Terms*—Timestamp Location, Text Generation, T5 Model, Natural Language Processing, Instructional Videos, Sub-title Fragment Localization**
 
-## Work Undertaken (Abstract)
+## My Contribution
 With the development of artificial intelligence, AI-aid learning is getting increasingly popular. Extracting essential information from instructional videos is one of them. Facing the challenge of locating the timestamp of instructional medical videos to answer specific medical questions, our research group proposes several applicable Natural Language Processing models. I propose a three-stage model based on text-to-text model. At the **first stage**, text similarity is calculated between questions and video subtitles to select the most related videos that probably contain answer to the question. At the **second stage**, a text-to-text conditional generation model T5 is finetuned to generate textual answer to the question based on video subtitles. At the **last stage**, embedding cosine similarity is calculated to locate the subtitle fragment and subsequently locate the timestamp of that fragment. Experiments have been carried out to compare different generation models and test the model’s effectiveness on solving the task. The average IOU can reach 0.5877 on test dataset. **It is an innovative temptation to apply “text-to-text” language model for answer locating and medical instruction extraction.**
 
 ## Start Here
