@@ -26,4 +26,5 @@ With the development of artificial intelligence, AI-aid learning is getting incr
 
 ## Start Here
 See **[TRECVID 2023](https://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.23.org.html)** for our conference presentation and publication.
+
 See **Source Code** for detailed implementation including finetuning T5 on multiple GPUs.
