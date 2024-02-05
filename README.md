@@ -2,6 +2,7 @@
 Summer Research at Applied-AI Lab, NC State University
 
 ![model](https://github.com/QiLong25/MedVidQA-2023/assets/143149589/aac91c52-c60c-4c18-9e48-544dac3afe03)
+!(https://medvidqa.github.io/img/vcval.PNG)
 
 ## Challenge
 https://medvidqa.github.io/
