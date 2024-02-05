@@ -2,10 +2,12 @@
 Summer Research at Applied-AI Lab, NC State University
 
 ![model](https://github.com/QiLong25/MedVidQA-2023/assets/143149589/aac91c52-c60c-4c18-9e48-544dac3afe03)
-![MedVidQA](https://medvidqa.github.io/img/vcval.PNG)
 
 ## Challenge
+![MedVidQA](https://medvidqa.github.io/img/vcval.PNG)
+
 https://medvidqa.github.io/
+
 **Task: Video Corpus Visual Answer Localization (VCVAL)**
 
 Given a medical query and a collection of videos, the task aims to retrieve the appropriate video from the video collection and then locate the temporal segments (start and end timestamps) in the video where the answer to the medical query is being shown, or the explanation is illustrated in the video.
