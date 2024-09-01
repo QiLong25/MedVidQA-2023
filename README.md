@@ -1,7 +1,5 @@
 # MedVidQA-2023
 
-### Organization: [UNCW Applied AI Research Lab](https://people.uncw.edu/dogang/)
-
 ![model](https://github.com/QiLong25/MedVidQA-2023/assets/143149589/aac91c52-c60c-4c18-9e48-544dac3afe03)
 
 ## Challenge
